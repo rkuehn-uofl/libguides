@@ -1,2 +1,2 @@
 # libguides
-Repository of LibGuides scripts used at the University of Louisville Libraries
+University of Louisville Libraries Repository of LibGuides Scripts
